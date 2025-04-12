@@ -10,6 +10,8 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 		
 		//Changes HIS-132
+
+int i =10;
 		
 		System.out.println("Hi");
 	}
